@@ -1,0 +1,18 @@
+@media(max-width: 768px){
+  input[type="search"]{
+    width: 280px;
+  }
+}
+
+
+@media(max-width: 360px){
+  input[type="search"]{
+    width: 200px;
+  }
+}
+
+@media(max-width: 320px){
+  input[type="search"]{
+    width: 200px;
+  }
+}
